@@ -1,4 +1,4 @@
-# weatherapi
+# Weatherapi
 Building a Backend API for Weather Forecast using Python as the Programming language and Flask as the framework and theting the api with postman
 # For execution of script follow these steps
 #step1                                                                                                                                                                                                                 
