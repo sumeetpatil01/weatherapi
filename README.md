@@ -1,5 +1,5 @@
 # weatherapi
-Building a Backend API for Weather Forecast using Python as the Programming language and Flask as the framework
+Building a Backend API for Weather Forecast using Python as the Programming language and Flask as the framework and theting the api with postman
 # For execution of script follow these steps
 #step1                                                                                                                                                                                                                 
 run this script in the vs code make sure you have installed python on your device and also make sure the required libraries are installed like flask,requests                                                           
@@ -12,5 +12,10 @@ add this above url with city name to base url and then you will get the weather 
 ex:-http://127.0.0.1:5000/weather?location=bengaluru                                                                                                                                                                   
 Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code 
 ![Screenshot (20)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/5cbc83ee-f644-4ae2-809f-2d84f2a9d3a3)
+# few screenshots to execute this
+First pic shows to open the base url displayed in the terminal after running the script in vs code
+![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/c830eeb3-d1d7-4120-a799-daadeb7c8589)
+
+
 
 
