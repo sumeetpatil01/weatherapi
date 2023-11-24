@@ -24,7 +24,8 @@ Second pic showing adding api endpoint to get the data after opening base url in
 
 
 Output
-![Screenshot (24)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/f487be43-6a8f-494f-8d02-73ad9cdcfe72)
+![Screenshot (24)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/ca887624-ec07-45ce-99e9-a95be460a1b7)
+
 after following all the steps you will get the result in json file you can also change the city name and try with other locations                                                                                  
 after getting the output copy that url in your browser and test the api with postman
 
