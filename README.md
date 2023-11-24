@@ -20,7 +20,8 @@ First pic shows to open the base url displayed in the terminal after running the
 ![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/0a58cba8-2a7a-42bf-9216-41071c217d47)
 
 Second pic showing adding api endpoint to get the data after opening base url in browser 
-![Screenshot (23)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/f11e6ccc-0677-4edb-b8d3-00a51d8b2bc2)
+![Screenshot (23)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/929c31f4-5827-4aad-9a76-f2793c35dd43)
+
 
 Output
 ![Screenshot (24)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/f487be43-6a8f-494f-8d02-73ad9cdcfe72)
