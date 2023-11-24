@@ -9,5 +9,8 @@ by default this link is selected when you open this link you will see 404 error 
 with api endpoint  
 /weather?location=city name #replace the city name with the name of the city of which you have to get the weather data                                                                                                 
 add this above url with city name to base url and then you will get the weather data
-ex:-http://127.0.0.1:5000/weather?location=bengaluru
+ex:-http://127.0.0.1:5000/weather?location=bengaluru                                                                                                                                                                   
+Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code 
+![Screenshot (20)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/5cbc83ee-f644-4ae2-809f-2d84f2a9d3a3)
+
 
