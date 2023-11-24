@@ -14,7 +14,11 @@ Thats it now you can see the json file NOTE:-make sure your script is running pa
 ![Screenshot (20)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/5cbc83ee-f644-4ae2-809f-2d84f2a9d3a3)
 # few screenshots to execute this
 First pic shows to open the base url displayed in the terminal after running the script in vs code
-![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/c830eeb3-d1d7-4120-a799-daadeb7c8589)
+![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/c830eeb3-d1d7-4120-a799-daadeb7c8589)                                                                                                  
+
+Second pic showing adding api endpoint to get the data after opening base url in browser 
+![Screenshot (23)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/f11e6ccc-0677-4edb-b8d3-00a51d8b2bc2)
+
 
 
 
