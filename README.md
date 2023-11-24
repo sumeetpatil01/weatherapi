@@ -1,5 +1,5 @@
 # Weatherapi
-Building a Backend API for Weather Forecast using Python as the Programming language and Flask as the framework and theting the api with postman
+Building a Backend API for Weather Forecast using Python as the Programming language and Flask as the framework and testing the api with postman
 # For execution of script follow these steps
 #step1                                                                                                                                                                                                                 
 run this script in the vs code make sure you have installed python on your device and also make sure the required libraries are installed like flask,requests                                                           
