@@ -28,6 +28,7 @@ Output
 
 after following all the steps you will get the result in json file you can also change the city name and try with other locations                                                                                  
 after getting the output copy that url in your browser and test the api with postman
+![Screenshot (25)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/7589e77e-5f80-4c67-8100-db86ff51f98d)
 
 
 
