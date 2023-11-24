@@ -11,7 +11,8 @@ with api endpoint
 add this above url with city name to base url and then you will get the weather data
 ex:-http://127.0.0.1:5000/weather?location=bengaluru                                                                                                                                                                   
 Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code 
-![Screenshot (20)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/5cbc83ee-f644-4ae2-809f-2d84f2a9d3a3)
+![Screenshot (24)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/6a8220b2-2176-4be4-80ac-ca0c22994134)
+
 # few screenshots to execute this
 First pic shows to open the base url displayed in the terminal after running the script in vs code
 ![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/c830eeb3-d1d7-4120-a799-daadeb7c8589)                                                                                                  
