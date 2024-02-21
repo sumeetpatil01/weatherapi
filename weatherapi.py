@@ -9,7 +9,7 @@ BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 @app.route('/weather', methods=['GET'])
 def get_weather():               
     try: 
-        location = request.args.get('location')
+        location = request.args.get('location') 
  
         if not location:
             return jsonify({'error': 'Location not provided'}), 400
