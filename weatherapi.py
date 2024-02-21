@@ -7,7 +7,7 @@ API_KEY = 'enter the api key' #genrate an api key in open weather map and place 
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 @app.route('/weather', methods=['GET'])
-def get_weather():
+def get_weather():               
     try: 
         location = request.args.get('location')
 
