@@ -15,19 +15,19 @@ Thats it now you can see the json file NOTE:-make sure your script is running pa
 
 
 # few screenshots to execute this
-First pic shows to open the base url displayed in the terminal after running the script in vs code
+#First pic shows to open the base url displayed in the terminal after running the script in vs code
                                                                                                
 ![Screenshot (22)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/0a58cba8-2a7a-42bf-9216-41071c217d47)
 
-Second pic showing adding api endpoint to get the data after opening base url in browser 
+# Second pic showing adding api endpoint to get the data after opening base url in browser 
 ![Screenshot (23)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/929c31f4-5827-4aad-9a76-f2793c35dd43)
 
 
-Output
+# Output
 ![Screenshot (24)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/ca887624-ec07-45ce-99e9-a95be460a1b7)
 
-after following all the steps you will get the result in json file you can also change the city name and try with other locations                                                                                  
-after getting the output copy that url in your browser and test the api with postman
+# after following all the steps you will get the result in json file you can also change the city name and try with other locations                                                                                  
+# after getting the output copy that url in your browser and test the api with postman
 ![Screenshot (25)](https://github.com/sumeetpatil01/weatherapi/assets/136491586/7589e77e-5f80-4c67-8100-db86ff51f98d)
 
 
